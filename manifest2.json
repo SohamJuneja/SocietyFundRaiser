@@ -1,6 +1,6 @@
 {
     "name": "Gold Sponsorship",
-    "description": "Step into the spotlight and make your mark as a Gold Sponsor",
+    "description": "Step into the spotlight and make your mark as a Gold Sponsor ",
     "image": "https://i.postimg.cc/BQJyRcns/gold.jpg",
     "attributes": [
         {
@@ -10,6 +10,6 @@
         {
             "trait_type": "Trait Name",
             "value": "Trait Value"
-        }
-    ]
+        }
+    ]
 }
