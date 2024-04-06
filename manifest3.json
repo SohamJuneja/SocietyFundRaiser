@@ -1,1 +1,15 @@
-
+{
+    "name": "Silver Sponsorship",
+    "description": "Seize the chance to be a driving force behind innovation as a Silver Sponsor!",
+    "image": "https://i.postimg.cc/htT2jXjM/silver.jpg",
+    "attributes": [
+        {
+            "trait_type": "Sponsorship",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
