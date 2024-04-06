@@ -1,0 +1,15 @@
+{
+    "name": "Platinum Sponsorship",
+    "description": "Special Acknowledgement: Be recognised for the entire event",
+    "image": "https://i.postimg.cc/76TDGYr9/platinum.jpg",
+    "attributes": [
+        {
+            "trait_type": "Sponsorship",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
