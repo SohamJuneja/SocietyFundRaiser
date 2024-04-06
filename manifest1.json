@@ -1,0 +1,15 @@
+{
+    "name": "Title Sponsorship",
+    "description": "Enjoy exclusive brand exposure across all promotional channels",
+    "image": "https://i.postimg.cc/KjwM7Y1Y/title.jpg",
+    "attributes": [
+        {
+            "trait_type": "Sponsorship",
+            "value": "Title"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
